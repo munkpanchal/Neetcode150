@@ -5,19 +5,19 @@ This repository contains my solutions to the NeetCode algorithm problems impleme
 ## 📚 Problem Categories
 
 ### 1. Arrays & Hashing
-- [ ] Contains Duplicate
-- [ ] Valid Anagram
-- [ ] Two Sum
-- [ ] Group Anagrams
-- [ ] Top K Frequent Elements
-- [ ] Product of Array Except Self
+- [x] Contains Duplicate
+- [x] Valid Anagram
+- [x] Two Sum
+- [x] Group Anagrams
+- [x] Top K Frequent Elements
+- [x] Product of Array Except Self
 - [ ] Valid Sudoku
-- [ ] Encode and Decode Strings
-- [ ] Longest Consecutive Sequence
+- [x] Encode and Decode Strings
+- [x] Longest Consecutive Sequence
 
 ### 2. Two Pointers
-- [ ] Valid Palindrome
-- [ ] Two Sum II
+- [x] Valid Palindrome
+- [x] Two Sum II
 - [ ] 3Sum
 - [ ] Container with Most Water
 - [ ] Trapping Rain Water
