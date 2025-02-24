@@ -18,9 +18,9 @@ This repository contains my solutions to the NeetCode algorithm problems impleme
 ### 2. Two Pointers
 - [x] Valid Palindrome
 - [x] Two Sum II
-- [ ] 3Sum
-- [ ] Container with Most Water
-- [ ] Trapping Rain Water
+- [x] 3Sum
+- [x] Container with Most Water
+- [x] Trapping Rain Water
 
 ### 3. Sliding Window
 - [ ] Best Time to Buy & Sell Stock
