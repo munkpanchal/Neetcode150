@@ -23,14 +23,14 @@ This repository contains my solutions to the NeetCode algorithm problems impleme
 - [x] Trapping Rain Water
 
 ### 3. Sliding Window
-- [ ] Best Time to Buy & Sell Stock
+- [] Best Time to Buy & Sell Stock
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
 
 ### 4. Stack
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
