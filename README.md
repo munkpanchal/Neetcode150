@@ -31,7 +31,7 @@ This repository contains my solutions to the NeetCode algorithm problems impleme
 
 ### 4. Stack
 - [x] Valid Parentheses
-- [ ] Min Stack
+- [x] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
 - [ ] Daily Temperatures
